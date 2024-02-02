@@ -1,0 +1,31 @@
+.Main-Container{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: azure;
+  text-align: center;
+  height: 50px;
+  text-decoration: none;
+}
+.Main-2{
+  display: flex;
+  gap: 40px;
+  font-size: 10px;
+  padding-top: 13px;
+}
+#s{
+  color: inherit;
+  text-decoration: none;
+  font-size:xx-large;
+}
+#s2{
+  font-size: large;
+  color: inherit;color: inherit;
+  text-decoration: none;
+}
+.X{
+  text-align: center;
+  font-size: x-large;
+  font-weight: bolder;
+  margin-top: 30px;
+}
